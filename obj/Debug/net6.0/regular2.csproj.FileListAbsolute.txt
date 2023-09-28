@@ -1,0 +1,15 @@
+C:\Users\plesk\source\repos\regular2\bin\Debug\net6.0\regular2.exe
+C:\Users\plesk\source\repos\regular2\bin\Debug\net6.0\regular2.deps.json
+C:\Users\plesk\source\repos\regular2\bin\Debug\net6.0\regular2.runtimeconfig.json
+C:\Users\plesk\source\repos\regular2\bin\Debug\net6.0\regular2.dll
+C:\Users\plesk\source\repos\regular2\bin\Debug\net6.0\regular2.pdb
+C:\Users\plesk\source\repos\regular2\obj\Debug\net6.0\regular2.csproj.AssemblyReference.cache
+C:\Users\plesk\source\repos\regular2\obj\Debug\net6.0\regular2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plesk\source\repos\regular2\obj\Debug\net6.0\regular2.AssemblyInfoInputs.cache
+C:\Users\plesk\source\repos\regular2\obj\Debug\net6.0\regular2.AssemblyInfo.cs
+C:\Users\plesk\source\repos\regular2\obj\Debug\net6.0\regular2.csproj.CoreCompileInputs.cache
+C:\Users\plesk\source\repos\regular2\obj\Debug\net6.0\regular2.dll
+C:\Users\plesk\source\repos\regular2\obj\Debug\net6.0\refint\regular2.dll
+C:\Users\plesk\source\repos\regular2\obj\Debug\net6.0\regular2.pdb
+C:\Users\plesk\source\repos\regular2\obj\Debug\net6.0\regular2.genruntimeconfig.cache
+C:\Users\plesk\source\repos\regular2\obj\Debug\net6.0\ref\regular2.dll
